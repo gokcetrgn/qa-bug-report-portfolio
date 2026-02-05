@@ -1,2 +1,39 @@
-# qa-bug-report-portfolio
-Real-world QA bug reports and testing observations created for learning and portfolio purposes. Includes UX, functional and state-management test cases.
+# QA Bug Report Portfolio
+
+This repository contains real-world style QA bug reports created for learning, practice and portfolio purposes.
+
+## Purpose
+The goal of this repository is to demonstrate:
+
+- Bug reporting skills
+- Clear documentation
+- Test thinking and observation
+- Realistic reproduction steps
+- UX and functional issue analysis
+
+## Included Reports
+
+### BUG-001 – Location Filter Reset Issue
+- Type: Functional / State Management
+- Description: Location filter remains selected in UI but results reset after navigation.
+- Environment: Web (Chrome / Windows 10)
+
+## Structure
+Each bug report includes:
+
+- Summary
+- Environment
+- Preconditions
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity & Priority
+- Screenshot (when applicable)
+
+## Notes
+These reports are created for educational and portfolio purposes only. No security vulnerabilities are involved.
+
+---
+
+Created by: Gökçenaz Torgan
+QA / Software Testing learner
