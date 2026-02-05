@@ -1,7 +1,7 @@
-# BUG-002 – BebeDOR Link Redirects to "Markalarımız" Page in Rossmann Anne/Bebek Category
+# BUG-002 – Bebedor Link Redirects to "Markalar" Page in Rossmann Anne/Bebek Category
 
 ## Summary
-When clicking on the "BebeDOR" link in the Anne/Bebek category, the user is redirected to the "Markalarımız" page instead of the BebeDOR product listing.
+When clicking on the "Bebedor" link in the Anne/Bebek category, the user is redirected to the "Markalar" page instead of the Bebedor product listing.
 
 ## Environment
 - Website: Rossmann
