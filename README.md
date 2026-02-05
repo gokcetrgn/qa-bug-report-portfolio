@@ -18,6 +18,11 @@ The goal of this repository is to demonstrate:
 - Description: Location filter remains selected in UI but results reset after navigation.
 - Environment: Web (Chrome / Windows 10)
 
+### BUG-002 – Bebedor Link Redirects to "Markalar" Page
+- Type: Navigation / Redirect Issue
+- Description: Clicking on the "Bebedor" link in the Anne/Bebek category redirects the user to the "Markalar" page.
+- Environment: Web (Chrome / Windows 10)
+
 ## Structure
 Each bug report includes:
 
