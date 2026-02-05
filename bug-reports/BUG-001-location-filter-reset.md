@@ -30,6 +30,11 @@ Listings from all cities are displayed even though the UI shows Trabzon as selec
 
 *Screenshot shows Trabzon selected while listings from multiple cities are displayed.*
 
+## Video
+
+![Bug demo](gonullu-ol-bug.gif)
+
+
 ## Observed Behavior
 Location filter visually remains selected but backend result set appears unfiltered after navigation back action.
 
