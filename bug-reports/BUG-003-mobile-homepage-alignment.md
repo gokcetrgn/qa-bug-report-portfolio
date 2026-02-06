@@ -39,7 +39,7 @@ On the homepage mobile view, service icons and their corresponding text descript
 
 ## Screenshot
 
-<img src="bug-reports/bug-03.jpg" width="350">
+<img src="bug-03.jpg" width="350">
 
 
 ---
