@@ -22,7 +22,12 @@ The goal of this repository is to demonstrate:
 - Type: Navigation / Redirect Issue
 - Description: Clicking on the "Bebedor" link in the Anne/Bebek category redirects the user to the "Markalar" page.
 - Environment: Web (Chrome / Windows 10)
-
+  
+### BUG-003 – UI Misalignment and Excessive Whitespace (Mobile Homepage)
+- Type: UI / Responsive Layout
+- Description: Service icons and text are misaligned on mobile homepage and excessive whitespace appears before next section.
+- Environment: Mobile (iPhone / Safari / iOS)
+  
 ## Structure
 Each bug report includes:
 
