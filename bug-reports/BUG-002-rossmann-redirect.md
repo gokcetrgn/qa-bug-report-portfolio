@@ -38,6 +38,7 @@ Users may face confusion when trying to view products of a specific brand and ma
 
 ## Notes
 This seems to be a broken link or redirect issue in the navigation. 
+
 ⚠️ This bug report is created for portfolio and educational purposes only.
 
 
