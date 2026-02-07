@@ -37,4 +37,7 @@ Medium
 Users may face confusion when trying to view products of a specific brand and may not be able to easily find what they're looking for.
 
 ## Notes
-This seems to be a broken link or redirect issue in the navigation. bi kalsın burdaa
+This seems to be a broken link or redirect issue in the navigation. 
+⚠️ This bug report is created for portfolio and educational purposes only.
+
+
